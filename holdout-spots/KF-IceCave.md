@@ -1,4 +1,4 @@
-# Holdout Spots on West London
+# Holdout Spots on Ice Cave
 
 ## #1, The classic spawn point intersection
 
