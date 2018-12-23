@@ -37,9 +37,3 @@ Notice the hole in the right wall, it spawns trash zeds from time to time.
 ### A ceiling spawn
 
 ![Overview](img/KF-IceCave/02-05_large-cave_ceiling-spawn.jpg "")
-
-## #3, A room with 2 entrances
-
-![Overview](img/KF-IceCave/03_questionable_2-way-spot.jpg "")
-
-Notice the ceiling spawn.
