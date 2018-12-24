@@ -33,3 +33,9 @@ This map is quite dark, so I had to increase the gamma value to increase the vis
 ![Overview](img/KF-Suburbia/03-01_inside-solo-spot_front.jpg "")
 
 Notice the hole in the wall which occasionally spawns trash zeds.
+
+### The backdoor
+
+![Overview](img/KF-Suburbia/03-02_inside-solo-spot_backdoor.jpg "")
+
+This backdoor usually ends up welded shut and turns a 2-way spot into a 1-way spot.
