@@ -7,3 +7,9 @@
 ## #2, The elevated platform with 2 sets of stairs
 
 ![Overview](img/KF-Icebreaker/02_elevated-spot-2-stairs.jpg "")
+
+## #3, The ship's stern
+
+![Overview](img/KF-Icebreaker/03_ships-stern.jpg "")
+
+A 2-way spot with a staircase in each lane.
