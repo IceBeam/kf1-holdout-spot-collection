@@ -35,3 +35,17 @@ View from the spot the right set of backdoors leads to.
 ![Overview](img/KF-FilthsCross/03_solo-2-way-spot.jpg "")
 
 The team can spread out and cover both of the directions or stick together in front of both doorways.
+
+## #4, The 2-way spot with dumpsters
+
+### Overview
+
+![Overview](img/KF-FilthsCross/04-01_2-way-spot_overview.jpg "")
+
+### The front lane
+
+![Overview](img/KF-FilthsCross/04-02_2-way-spot_front-side.jpg "")
+
+### The lane with dumpsters
+
+![Overview](img/KF-FilthsCross/04-03_2-way-spot_dumpster-side.jpg "")
