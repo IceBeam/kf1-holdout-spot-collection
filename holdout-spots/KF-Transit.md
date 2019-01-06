@@ -57,3 +57,17 @@
 Notice the ceiling spawn.
 
 The backdoor can be welded if necessary.
+
+## #4, The KFO welding spot
+
+### Overview
+
+![Overview](img/KF-Transit/04-01_kfo-welding-spot_overview.jpg "")
+
+### Front side
+
+![Overview](img/KF-Transit/04-02_kfo-welding-spot_front-side.jpg "")
+
+### Rear side
+
+![Overview](img/KF-Transit/04-03_kfo-welding-spot_rear-side.jpg "")
