@@ -27,3 +27,25 @@
 ### Right Side
 
 ![Overview](img/KF-Departed/02-02_basement_right-side.jpg "")
+
+## #3, The 4-way intersection
+
+### Overview
+
+![Overview](img/KF-Departed/03-01_4-way-intersection_overview.jpg "")
+
+### View on the front alley
+
+![Overview](img/KF-Departed/03-02_4-way-intersection_front-alley.jpg "")
+
+### View on the back alley
+
+![Overview](img/KF-Departed/03-03_4-way-intersection_back-alley.jpg "")
+
+### View on the left side
+
+![Overview](img/KF-Departed/03-04_4-way-intersection_left-side.jpg "")
+
+### View on the right side
+
+![Overview](img/KF-Departed/03-05_4-way-intersection_right-side.jpg "")
