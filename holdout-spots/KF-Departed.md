@@ -1,4 +1,4 @@
-# Holdout Spots on West London
+# Holdout Spots on Departed
 
 ## #1, The 2-way corner, farthest spot from the spawnpoint
 
